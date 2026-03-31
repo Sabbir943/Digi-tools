@@ -1,16 +1,33 @@
-# React + Vite
+## 📌 Project Name
+**A-6 Digital Tools Buying Website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📝 Description
+This is a modern and responsive digital tools marketplace where users can explore premium tools, view detailed features, and add products to a cart. The project provides a smooth user experience with interactive UI, dynamic cart functionality, and real-time notifications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Technologies Used
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🌼 DaisyUI  
+- 📜 JavaScript (ES6+)  
+- 🔔 React-Toastify  
+- 📦 JSON Data  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛒 1. Smart Cart System
+Users can add products to the cart, remove individual items, and see the total product count update instantly in the navbar.
+
+### 🔄 2. Product & Cart Toggle
+Users can easily switch between product view and cart view. By default, the product section is displayed for a better browsing experience.
+
+### 🔔 3. Real-time Notifications
+All actions like adding to cart, removing items, and checkout are shown using toast notifications for better user interaction.
+
+---
+

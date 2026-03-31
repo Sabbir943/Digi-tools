@@ -5,6 +5,7 @@ import NavBar from './Component/NavBar/NavBar'
 import Product from './Component/ProductCart/Product'
 import User from './Component/UserSection/User'
   import { ToastContainer, toast } from 'react-toastify';
+import GetStarted from './Component/GetStarted/GetStarted'
 const productData=async () =>{
   const productFetch=await fetch('productData.json');
   return productFetch.json();
@@ -22,7 +23,7 @@ function App() {
    <Product productPromise={productPromise} count={count} setCount={setCount}></Product>
    </Suspense>
 
-
+  <GetStarted></GetStarted>
     
  <ToastContainer />
    

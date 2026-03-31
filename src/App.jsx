@@ -6,6 +6,7 @@ import Product from './Component/ProductCart/Product'
 import User from './Component/UserSection/User'
   import { ToastContainer, toast } from 'react-toastify';
 import GetStarted from './Component/GetStarted/GetStarted'
+import PricingCart from './Component/PricingCart/PricingCart'
 const productData=async () =>{
   const productFetch=await fetch('productData.json');
   return productFetch.json();
@@ -24,7 +25,7 @@ function App() {
    </Suspense>
 
   <GetStarted></GetStarted>
-    
+   <PricingCart></PricingCart> 
  <ToastContainer />
    
 

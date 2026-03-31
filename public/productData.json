@@ -1,0 +1,138 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Resume Builder Pro",
+    "description": "Build professional, ATS-optimized resumes in minutes with beautiful templates and AI assistance.",
+    "price": 29,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "120+ modern templates",
+      "Full ATS optimization",
+      "AI content generator",
+      "Export to PDF & Word",
+      "LinkedIn import"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/942/942748.png"
+  },
+  {
+    "id": "prod_002",
+    "name": "Cover Letter AI",
+    "description": "Create highly personalized cover letters that match any job description instantly.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Job description analysis",
+      "AI-powered writing",
+      "Multiple tone options",
+      "PDF export",
+      "Unlimited generations"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png"
+  },
+  {
+    "id": "prod_003",
+    "name": "Career Pro Monthly",
+    "description": "Unlimited access to all resume, cover letter, and career tools with priority support.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited documents",
+      "Priority AI processing",
+      "Advanced analytics",
+      "Interview prep kit",
+      "24/7 support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png"
+  },
+  {
+    "id": "prod_004",
+    "name": "Portfolio Builder",
+    "description": "Create a stunning personal portfolio website to showcase your projects and skills.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "",
+    "features": [
+      "Drag & drop editor",
+      "60+ premium themes",
+      "Fully responsive",
+      "Custom domain ready",
+      "SEO optimized"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1063/1063376.png"
+  },
+  {
+    "id": "prod_005",
+    "name": "Job Tracker Pro",
+    "description": "Smart job application tracker with reminders, status dashboard, and analytics.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Unlimited applications",
+      "Smart reminders & deadlines",
+      "Status dashboard",
+      "Interview scheduler",
+      "Success analytics"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135815.png"
+  },
+  {
+    "id": "prod_006",
+    "name": "LinkedIn Optimizer",
+    "description": "Maximize your LinkedIn profile visibility and attract more recruiter messages.",
+    "price": 12,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Profile strength score",
+      "AI headline & summary",
+      "Keyword optimization",
+      "Experience suggestions",
+      "PDF profile export"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
+  },
+  {
+    "id": "prod_007",
+    "name": "Career Pro Yearly",
+    "description": "Get full access for an entire year at a discounted price with exclusive bonuses.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Everything in Monthly plan",
+      "Save ~25% vs monthly",
+      "Advanced AI coaching",
+      "Exclusive webinars",
+      "Early feature access"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": "prod_008",
+    "name": "Interview Ace",
+    "description": "Practice interviews with AI mock sessions and get instant detailed feedback.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "",
+    "features": [
+      "1000+ interview questions",
+      "Industry-specific modes",
+      "Real-time AI feedback",
+      "Video practice & analysis",
+      "Confidence builder"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3076/3076009.png"
+  }
+]
